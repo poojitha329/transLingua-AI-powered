@@ -68,7 +68,7 @@ TransLingua/
 
 ### 1️. Clone the repository
 ```bash
-
+https://translingua-fwy6updl26wgchz89mqnna.streamlit.app
 ```
 2. Create virtual environment (one time)
 ```bash
